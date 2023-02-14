@@ -8,7 +8,7 @@
 
 运行速度
 
-![image](屏幕截图 2023-02-14 180815.png)
+![image](speedsnap.png)
 
 
 更多模型
